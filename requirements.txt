@@ -238,7 +238,7 @@ texttable==1.6.7
 thinc==8.1.7
 threadpoolctl==3.1.0
 tinycss2==1.2.1
-tikinter==8.6.12
+tkinter==8.6.12
 toml==0.10.2
 toolz==0.12.0
 torch==1.13.1
