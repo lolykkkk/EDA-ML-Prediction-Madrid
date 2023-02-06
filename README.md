@@ -20,7 +20,7 @@ In addition, an automatic learning model has been trained to predict the rental 
 ## WEB APP STREAMLIT: 
 In the following links you can take a look at the app created for this project in Streamlit.
 
-### [SEE THE APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
+### [SEE THE APP](https://silvilio-eda-ml-prediction-madrid-airbnb-madrid-app-izk2tg.streamlit.app/)
 ### [SEE THE APP CODE](https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/airbnb_madrid_app.py)
 
 Here you can see a preview of what you can find inside the Streamlit app.
@@ -71,7 +71,7 @@ Además, se ha entrenado un modelo de aprendizaje automático para predecir el p
 ## WEB APP STREAMLIT: 
 En los siguientes enlaces puedes echar un vistazo a la app creada para este proyecto en Streamlit. 
 
-### [VER LA APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
+### [VER LA APP](https://silvilio-eda-ml-prediction-madrid-airbnb-madrid-app-izk2tg.streamlit.app/)
 ### [VER EL CÓDIGO DE LA APP](https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/airbnb_madrid_app.py)
 
 Aquí puedes ver un adelanto de lo que te puedes encontrar dentro de la app de Streamlit.
