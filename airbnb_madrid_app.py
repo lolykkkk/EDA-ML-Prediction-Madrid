@@ -220,7 +220,7 @@ if menu == "Dataframe":
         """,
         unsafe_allow_html=True
         )
-    add_bg_from_local(r"Imágenes\background5.png")   
+    add_bg_from_local(r"Imágenes/background5.png")   
 
     # Título
     st.markdown("<h2 style='text-align: center; color: #ff5a60;'>Dataframe</h2>" ,unsafe_allow_html=True)
@@ -231,7 +231,7 @@ if menu == "Dataframe":
    
     with st.sidebar:
         #Imagen que sirve de título
-        st.image(r"Imágenes\sidebar.png")
+        st.image(r"Imágenes/sidebar.png")
 
         # Elección de barrio
         st.markdown("<h2 style='color: #ff5a60;'>Barrio: </h2>" ,unsafe_allow_html=True)
@@ -673,7 +673,7 @@ if menu =="Mapas":
 if menu =="Modelo":
 
     # Llamamos a la función para volver a cambiar la imagen de fondo
-    add_bg_from_local(r"Imágenes\background5.png")
+    add_bg_from_local(r"Imágenes/background5.png")
 
 
     # Título
