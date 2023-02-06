@@ -2,7 +2,6 @@
 
 #-------------------- LIBRERÍAS NECESARIAS-------------------------#
 from ctypes import alignment
-from tkinter import CENTER
 from turtle import color, width
 import fire
 from matplotlib.pyplot import FixedFormatter, colorbar
