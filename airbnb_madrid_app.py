@@ -79,12 +79,12 @@ def add_bg_from_local(image_file):
     """,
     unsafe_allow_html=True
     )
-add_bg_from_local(r"https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/Im%C3%A1genes/background3.png")
+add_bg_from_local("Imágenes/background3.png")
 
 
 
 # Leemos el Dataset
-df = pd.read_csv(r"C:\Users\sjfer\Silvilio python upgrade hub\Modulo 2\20-Trabajo Módulo 2\datos\airbnb_anuncios.csv")
+df = pd.read_csv("airbnb_anuncios.csv")
 
 
 
