@@ -15,6 +15,47 @@ This project is an exploratory data analysis (EDA) of Airbnb in Madrid, with the
 
 In addition, an automatic learning model has been trained to predict the rental price of a home on Airbnb in Madrid based on its characteristics. A Fast Machine Learning technique has been used to improve the accuracy of the model quickly. The trained model has proven to be effective in price prediction and provides a useful tool for homeowners and travelers looking to book a home on Airbnb in Madrid.
 
+--- 
+
+## WEB APP STREAMLIT: 
+In the following links you can take a look at the app created for this project in Streamlit.
+
+### [SEE THE APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
+### [SEE THE APP CODE](https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/airbnb_madrid_app.py)
+
+Here you can see a preview of what you can find inside the Streamlit app.
+
+![](https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/Im%C3%A1genes/app.gif)
+
+---
+
+## MACHINE LEARNING
+In this project, the Fast Machine Learning method has been chosen to train a prediction model accurately and reducing the training time.
+Of all the different models this system tested, the best model turned out to be the <b>Light Gradient Boosting Machine (LightGBM)</b>.
+Because? Of all, it was the one with the smallest mean absolute error (MAE) and the smallest mean square error (MSE). In addition, it also had the best performance in the coefficient of determination (R2).
+
+### Model: Light Gradient Boosting Machine (LightGBM)
+Light Gradient Boosting Machine (LightGBM) is a supervised machine learning algorithm. In this case, we use it to predict the rental price of Airbnb properties in Madrid. This is accomplished by training the model on data from the dataset, such as reviews, neighborhood, room type, minimum night nights, and availability.
+
+Once trained, the model can predict the price of an Airbnb rental based on its characteristics and input data. This can help landlords set realistic rental prices for their Airbnb listings.
+
+<img src="https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/Im%C3%A1genes/captura3.PNG" alt="Classification" style="width: 50%; height: auto;" />
+
+A value of 0.4816 for R2 indicates that the model explains approximately 48% of the variability in Airbnb apartment prices. It can be said that the model has a good predictability with an R2 close to 0.5, indicating that the model explains around 50% of the variability in Airbnb apartment prices.
+
+<img src="https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/Im%C3%A1genes/captura1.PNG" alt="Classification" style="width: 50%; height: auto;" />
+
+Furthermore, the errors obtained are acceptable, with a MAE and RMSE of 19.3011 and 26.6900 respectively, which suggests that the model behaves in a stable and consistent manner in its price prediction. A value of 19.3011 means that, on average, the model is predicting the price of Airbnb apartments with an error of 19.3011 currency units.
+
+<img src="https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/Im%C3%A1genes/captura2.PNG" alt="Classification" style="width: 50%; height: auto;" />
+
+In summary, the LightGBM model is a good fit for the project and can be considered a suitable option for Airbnb apartment price prediction. You can continue to investigate other modeling techniques or improve the features to further improve the performance of the model.
+
+---
+
+### [DOWNLOAD DATASET](https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/airbnb_anuncios.csv)
+Here you can download the dataset used for the project.
+
 
 
 
