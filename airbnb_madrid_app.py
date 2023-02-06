@@ -102,7 +102,7 @@ df['price'] = df['price'].round(2)
 #------------------ COMIENZA NUESTRA APP  -----------------------------------------------------
 
 #Imagen con efecto máscara de recorte usada como título.
-st.image("Imágenes\transparente.png", width="120%", use_column_width=True)
+st.image("Imágenes/transparente.png", width="120%", use_column_width=True)
 
 
 #Menú horizontal
