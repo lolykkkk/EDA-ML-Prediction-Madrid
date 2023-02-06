@@ -139,7 +139,7 @@ if menu =="Contexto":
     a la oferta de alojamiento en la ciudad.
     """, unsafe_allow_html=True)
 
-    st.image(r"Imágenes\captura periódico.PNG")     # Imagen para romper la dinámica de todo texto
+    st.image(r"Imágenes/captura periódico.PNG")     # Imagen para romper la dinámica de todo texto
     st.write(
             "<div style='text-align:right;color:red;font-size:12px'>businessinsider.es</div>",
             unsafe_allow_html=True)
