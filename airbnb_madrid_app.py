@@ -2,7 +2,6 @@
 
 #-------------------- LIBRERÍAS NECESARIAS-------------------------#
 from ctypes import alignment
-from turtle import color, width
 import fire
 from matplotlib.pyplot import FixedFormatter, colorbar
 from pytz_deprecation_shim import fixed_offset_timezone
