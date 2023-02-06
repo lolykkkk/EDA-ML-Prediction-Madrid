@@ -56,8 +56,8 @@ In summary, the LightGBM model is a good fit for the project and can be consider
 ### [DOWNLOAD DATASET](https://github.com/silvilio/EDA-ML-Prediction-Madrid/blob/main/airbnb_anuncios.csv)
 Here you can download the dataset used for the project.
 
-
-
+---
+---
 
 # Spanish
 
